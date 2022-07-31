@@ -1,0 +1,17 @@
+{
+  "name": "dynamodb",
+  "version": "1.0.0",
+  "description": "example of crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "rm",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1185.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
